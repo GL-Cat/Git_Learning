@@ -2,4 +2,4 @@
 2023/12/3 Create | Learning Git | LiBeaver
 
 Git is a distribution version control system.
-Git is free software.
+Git is free software distributed under the GPL.
